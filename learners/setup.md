@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Setup
-root: .
 ---
 
 To prepare for this lesson, you will need the materials as listed in the [prerequisites](./01-prerequisities) and motivation to take this time to decompress while learning something fun and creative.
