@@ -14,7 +14,7 @@ carpentry: 'cp'
 title: 'Cross Stitch Carpentry'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: 
+created: '2023-09-18'
 
 # Comma-separated list of keywords for the lesson
 keywords: 'software, data, lesson, The Carpentries'
@@ -27,7 +27,7 @@ life_cycle: 'transition-step-2'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/fishtree-attempt/znk-transition-test/'
+source: 'https://github.com/fishtree-attempt/znk-transition-test'
 
 # Default branch of your lesson
 branch: 'main'
@@ -79,7 +79,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: https://preview.carpentries.org/znk-transition-test
+url: 'https://fishtree-attempt.github.io/znk-transition-test'
 analytics: carpentries
 lang: en
-workbench-beta: yes
