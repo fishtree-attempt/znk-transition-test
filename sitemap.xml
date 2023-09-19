@@ -22,7 +22,13 @@
     <loc>https://fishtree-attempt.github.io/znk-transition-test/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/aio.html</loc>
+  </url>
+  <url>
     <loc>https://fishtree-attempt.github.io/znk-transition-test/discuss.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/images.html</loc>
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/znk-transition-test/index.html</loc>
@@ -49,10 +55,22 @@
     <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/discuss.html</loc>
   </url>
   <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/motivation.html</loc>
@@ -62,6 +80,12 @@
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://fishtree-attempt.github.io/znk-transition-test/key-points.html</loc>
   </url>
   <url>
     <loc>https://fishtree-attempt.github.io/znk-transition-test/motivation.html</loc>
